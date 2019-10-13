@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740826739371",
+    "firebase_url": "https://shipdoanonline-fbb7b.firebaseio.com",
+    "project_id": "shipdoanonline-fbb7b",
+    "storage_bucket": "shipdoanonline-fbb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740826739371:android:f1ee1c3d46993ecb",
+        "android_client_info": {
+          "package_name": "a516100.pdu.admin.shipdoanonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740826739371-nhipbhqcqjp3k8239hb90arndv3hpoml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a516100.pdu.admin.shipdoanonline",
+            "certificate_hash": "e75fc0a841f2bd91090a912e561540a3e9bf77e4"
+          }
+        },
+        {
+          "client_id": "740826739371-pbig0vafqlipa6tk5vp72j9j4se9kelc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhPic9-Hri9xcTgHhoPwSabSGWIexh7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740826739371-pbig0vafqlipa6tk5vp72j9j4se9kelc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

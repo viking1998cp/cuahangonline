@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cửa hàng Phương Đông</string>
+    <string name="title_Main">Trang chủ</string>
+    <string name="sanphamNew">Sản phầm mới nhất</string>
+    <string name="activity_dienthoai">Điện thoại</string>
+    <string name="activity_laptop">Laptop</string>
+    <string name="chitietsp">Chi tiết sản phẩm</string>
+    <string name="Minus">-</string>
+    <string name="Plus">+</string>
+    <string name="btnxacnhan">Xác nhận</string>
+    <string name="btnquaylai">Quay lại</string>
+    <string name="titleLienhe">Liên hệ</string>
+    <string name="tenthongtin">Họ và tên: Nguyễn Mạnh Thắng</string>
+    <string name="emailthongtin">Email: ngthang12081998@gmail.com</string>
+    <string name="dienthoaithongtin">Điện thoại: 0388814098</string>
+    <string name="title_activity_thong_tin">Map</string>
+    <string name="titleThongtin">Thông tin</string>
+    <string name="diachi">Địa chỉ : 228 Minh Khai, Hai Bà Trưng, Hà Nội</string>
+</resources>

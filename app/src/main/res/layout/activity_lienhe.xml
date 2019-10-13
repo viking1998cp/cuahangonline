@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_lienhe"
+    android:layout_height="match_parent"
+    tools:context=".main.lienhe">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarLienhe"
+        android:background="#4882ED"
+        app:title="@string/titleLienhe"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"></android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:text="Liên hệ với chúng tôi"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:background="@drawable/boder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/ic_nguoi"
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:layout_gravity="center"
+                android:text="@string/tenthongtin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/boder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/ic_email"
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:layout_gravity="center"
+                android:text="@string/emailthongtin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/boder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/ic_dienthoai"
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+            <TextView
+                android:layout_marginLeft="30dp"
+                android:textSize="15dp"
+                android:layout_gravity="center"
+                android:text="@string/dienthoaithongtin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
